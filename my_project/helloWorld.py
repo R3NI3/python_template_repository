@@ -1,5 +1,10 @@
-def hello():
-    """Prints Hello World!. This is numpydoc docstring convention.
+"""
+This is an example script.
 
-    """
-    print("Hello World!")
+Some description.
+"""
+
+
+def hello():
+    """Hello, World!."""
+    print("Hello, World!")

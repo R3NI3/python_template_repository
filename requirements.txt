@@ -3,7 +3,8 @@
 #
 ###### Requirements without Version Specifiers ######
 pycodestyle
+pydocstyle
 #
-###### Requirements with Version Specifiers ###### 
+###### Requirements with Version Specifiers ######
 #
 
